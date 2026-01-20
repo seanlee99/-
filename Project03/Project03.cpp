@@ -21,4 +21,14 @@ local respository
 remote repository
 github
 
+github.com/new
+
+git init
+
+git config --global user.name "seanlee.kr99"
+git config --global user.email "seanlee.kr99@gmail.com"
+
+git remote add origin https://github.com/seanlee99/sbsc.git
+
+git push -u origin main --force
 */
