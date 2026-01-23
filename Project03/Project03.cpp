@@ -51,11 +51,16 @@ git remote add origin https://github.com/seanlee99/sbsc.git
 
 git push -u origin main --force
 
-git remove -v
+git remote -v
+
+
+
+// 코딩 끝나고
 
 git add .
 
 git commit -m "first commit"
 
+git push
 
 */
