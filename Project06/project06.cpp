@@ -72,6 +72,5 @@ int main()
 	mm %= 60;
 
 	printf("%d초는 %d시간 %d분 %d초 입니다", second, hh, mm, ss);
-
 	return 0;
 }
