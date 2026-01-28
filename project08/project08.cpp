@@ -31,6 +31,12 @@ int main()
 		i++;
 	}
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> e28c8c01968d32a9a4e8766546fe7d68cec201f6
 	i = 0;
 	while (i < COUNT)
 	{
